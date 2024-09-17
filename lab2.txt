@@ -1,0 +1,23 @@
+git 
+c
+git config --global user.name
+git config --global user.name Xerexcidex
+git config --global user.name
+git config --global user.email
+git config --global user.email subbotinmax3@gmail.com
+git config --global user.email
+git clone https://github.com/Xerexcidex/laba2.git
+cd
+cd laba2
+dir
+copy con Maxim.txt
+18 y.o
+191 cm
+78 kg
+strong
+
+dir
+git add .
+git commit -m "ver1"
+git push
+doskey/history > lab2.txt
